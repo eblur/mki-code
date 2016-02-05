@@ -1,11 +1,13 @@
 # mki-code
 Python demonstrations from MIT MKI-code coffee
 
-**Organizer**
+**Organizers**
 
-Lia Corrales
-
+Lia Corrales  
 lia [at] space.mit.edu
+
+Moritz Guenther
+hgunther [at] mit.edu
 
 **Email list**
 
