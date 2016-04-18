@@ -1,11 +1,15 @@
 # mki-code
-Python demonstrations from MIT MKI-code coffee
+Python demonstrations from MKI Code Coffee
 
-**Organizer**
+Many more details are on the [Wiki](https://github.com/eblur/mki-code/wiki)
 
-Lia Corrales
+**Organizers**
 
+Lia Corrales  
 lia [at] space.mit.edu
+
+Moritz Guenther  
+hgunther [at] mit.edu
 
 **Email list**
 
